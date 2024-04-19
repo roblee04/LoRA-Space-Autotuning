@@ -1,0 +1,6 @@
+
+.venv
+data/*
+llama.cpp/*
+lm-evaluation-harness/*
+models/*

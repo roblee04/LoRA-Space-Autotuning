@@ -1,0 +1,18 @@
+{
+  "tuning_problem_name": "GPTune-Demo",
+  "machine_configuration": {
+    "machine_name": "WAVE-HPC",
+    "IntelXeon": {
+      "nodes": 1,
+      "cores": 16
+    }
+  },
+  "loadable_machine_configurations": {
+    "WAVE-HPC": {
+      "IntelXeon": {
+        "nodes": 1,
+        "cores": 16
+      }
+    }
+  }
+}
